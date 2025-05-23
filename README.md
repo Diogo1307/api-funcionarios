@@ -32,5 +32,4 @@ O projeto segue a estrutura padrão de um projeto Spring Boot:
 - Spring Data JPA
 - Validation API
 - H2 Database
-- Lombok
 - Maven
